@@ -1,0 +1,3 @@
+=Projekt do nauki javy
+
+W ramach projektu będę chciała doszkalać się z podstaw języka javy
